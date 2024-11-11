@@ -2,7 +2,7 @@
 
 # Contact
 * **E-mail:** [olga.sinzeva@gmail.com](mailto:olga.sinzeva@gmail.com)
-* **Phone:** [+375 25 9078229](tel:+375259078229)
+* **Phone:** +375 25 9078229
 * **GitHub:** [vo-che](https://github.com/vo-che)
 * **LinkedIn:** [volha-sintsava](https://www.linkedin.com/in/volha-sintsava/)
 * **Discord:** Volha Sintsava (@vo_che)
@@ -15,9 +15,10 @@ I am an experienced customer service professional. I enjoy solving complex probl
 * CSS (Preprocessor LESS/SCSS/SASS, Bootstrap, BEM)
 * JavaScript (Fundamentals, ES6+, DOM), JSON
 * Jquery (Fundamentals)
-* Version control: Git (remote service GitHub).
+* Git, GitHub.
 * Module Bundlers: Gulp, Webpack
 * Zeplin, Photoshop, Figma
+* Docker (using it to work on projects)
 
 # Code Examples
 ```
@@ -33,12 +34,16 @@ function explode(s) {
   return res.join('');
 }
 ```
+# Experience
+1. Junior researcher at the Republican Scientific and Practical Center of Medical Expertise and Rehabilitation (Minsk) - 2 years
+2. Technical support specialist at megagroup.ru - 4 years
+3. Technical support specialist at vigbo.com - 7 years (present time)
+4. I use my development skills in the vigbo.com service under the mentorship of a team lead. I solve small tasks: bugs, small updates of existing service functionality (present time)
 
 # Education
-* Belarusian State Medical University, Minsk
-* TeachMeSkills
-
-# Experience
+* **Belarusian State Medical University** (doctor)
+* **TeachMeSkills** (course HTML+CSS)
+* **Skillbox** (web development course Basic level)
 
 # Languages
 * Belarusian - native
