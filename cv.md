@@ -21,6 +21,7 @@ I am an experienced customer service professional. I enjoy solving complex probl
 * Docker (using it to work on projects)
 
 ## Code Examples
+Description: Given a string made of digits [0-9], return a string where each digit is repeated a number of times equals to its value.
 ```
 function explode(s) {
   
