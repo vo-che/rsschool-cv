@@ -7,10 +7,10 @@
 * **LinkedIn:** [volha-sintsava](https://www.linkedin.com/in/volha-sintsava/)
 * **Discord:** Volha Sintsava (@vo_che)
 
-# About Me
+## About Me
 I am an experienced customer service professional. I enjoy solving complex problems and assignments from customers. I possess empathy and high soft skills. While working I constantly needed html, css, js knowledge and skills. The more I immersed myself in this area, the more I realized that I enjoyed development. And now I am at the stage of learning in the direction - front-end development. Looking forward to transitioning to a career in development where I can utilize my problem solving skills and critical thinking.
 
-# Skills
+## Skills
 * HTML
 * CSS (Preprocessor LESS/SCSS/SASS, Bootstrap, BEM)
 * JavaScript (Fundamentals, ES6+, DOM), JSON
@@ -20,7 +20,7 @@ I am an experienced customer service professional. I enjoy solving complex probl
 * Zeplin, Photoshop, Figma
 * Docker (using it to work on projects)
 
-# Code Examples
+## Code Examples
 ```
 function explode(s) {
   
@@ -34,18 +34,18 @@ function explode(s) {
   return res.join('');
 }
 ```
-# Experience
+## Experience
 1. Junior researcher at the Republican Scientific and Practical Center of Medical Expertise and Rehabilitation (Minsk) - 2 years
 2. Technical support specialist at megagroup.ru - 4 years
 3. Technical support specialist at vigbo.com - 7 years (present time)
 4. I use my development skills in the vigbo.com service under the mentorship of a team lead. I solve small tasks: bugs, small updates of existing service functionality (present time)
 
-# Education
+## Education
 * **Belarusian State Medical University** (doctor)
 * **TeachMeSkills** (course HTML+CSS)
 * **Skillbox** (web development course Basic level)
 
-# Languages
+## Languages
 * Belarusian - native
 * Russian
 * German A1
