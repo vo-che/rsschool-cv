@@ -1,1 +1,1 @@
-https://vo-che.github.io/rsschool-cv/
+https://vo-che.github.io/rsschool-cv/cv
