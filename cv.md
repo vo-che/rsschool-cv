@@ -1,6 +1,6 @@
 # Volha Sintsava
 
-# Contact
+## Contact
 * **E-mail:** [olga.sinzeva@gmail.com](mailto:olga.sinzeva@gmail.com)
 * **Phone:** +375 25 9078229
 * **GitHub:** [vo-che](https://github.com/vo-che)
